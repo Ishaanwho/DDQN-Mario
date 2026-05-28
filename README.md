@@ -15,9 +15,6 @@ A Deep Reinforcement Learning agent that learns to play **Super Mario Bros** usi
 
 ---
 
-🎥 Example Gameplay
-<p align="center"> <img src="https://media.giphy.com/media/VhikXTl6L8g7m/giphy.gif" width="500"/> </p>
-
 # ✨ Features
 
 * 🧠 **Double DQN (DDQN)** implementation
